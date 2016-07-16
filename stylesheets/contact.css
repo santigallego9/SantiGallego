@@ -1,0 +1,12 @@
+.navbar_animation {
+    background-color: #F4511E;
+}
+
+.active:hover {
+    color: #F4511E;
+}
+
+.contact {
+    background-image: url("../assets/contact.jpg");
+    background-position: center;
+}

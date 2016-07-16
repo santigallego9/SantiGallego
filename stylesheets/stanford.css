@@ -1,0 +1,12 @@
+.navbar_animation {
+    background-color: #820000;
+}
+
+.active:hover {
+    color: #820000;
+}
+
+.stanford {
+    background-image: url("../assets/stanford.jpg");
+    background-position: center;
+}

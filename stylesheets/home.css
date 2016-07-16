@@ -1,0 +1,11 @@
+.navbar_animation {
+    background-color: #1E88E5;
+}
+
+.active:hover {
+    color: #1E88E5;
+}
+
+.home {
+    background-image: url("../assets/golden_gate_bridge.jpg");
+}

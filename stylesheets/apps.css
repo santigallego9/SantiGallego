@@ -1,0 +1,12 @@
+.navbar_animation {
+    background-color: #7CB342;
+}
+
+.active:hover {
+    color: #7CB342;
+}
+
+.apps {
+    background-image: url("../assets/apps.jpg");
+    background-position: center;
+}
