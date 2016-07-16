@@ -32,7 +32,6 @@ body, html {
     position: fixed;
     width: 100%;
     height: 60px;
-    background-color: #1E88E5;
     opacity: 0;
 }
 
@@ -100,7 +99,6 @@ body, html {
 .active:hover {
     background: white;
     border: white solid 2px !important;
-    color: #1E88E5;
 }
 
 /*      ------------------------------      */
@@ -114,21 +112,13 @@ header {
     margin: 0;
 }
 
-.home {
-    background-image: url("../assets/golden_gate_bridge.jpg");
-}
-
-.stanford {
-    background-image: url("../assets/stanford.jpg");
-}
-
-.home h1 {
+header h1 {
     padding-top: 250px;
     font-size: 80px;
     font-weight:lighter;
 }
 
-.home h3 {
+header h3 {
     padding-top: 10px;
     font-size: 30px;
     font-weight:lighter;
